@@ -23,3 +23,8 @@ Komplexere Beispiele sind z.B. im Partnerportal zu finden:
 - Interaktive Karte / Map als WebView: <https://portal.proffix.net/MEINE-%c3%9cBERSICHT/Partner-Zusatzprogrammierungen/Beitrag/370649>
 
 - Buchungs - Neuberechner: <https://portal.proffix.net/MEINE-%c3%9cBERSICHT/Partner-Zusatzprogrammierungen/Beitrag/360971>
+
+## Hilfe
+
+Du willst eine eigene Webview für Proffix ? Oder hast ein komplexes Problem das direkt in Proffix mittels Webview gelöst werden soll ?
+Hier kannst du uns kontaktieren: <https://www.pitw.ch/kontakt>
